@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Upasana-610](https://github.com/Upasana-610)
 
-- 💬 Ask me about **React JS, Node JS, Express JS, Mongo DB, Redux, React-Redux, Style Components, HTML, CSS, Javascript, C++.**
+- 💬 Ask me about Web Development.   
 
 - 📫 How to reach me **upasanapan610@gmail.com**
 
