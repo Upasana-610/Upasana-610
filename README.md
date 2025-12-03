@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upasana-610" alt="upasana-610" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce-client](https://github.com/Upasana-610/e-commerce-client)
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Upasana-610](https://github.com/Upasana-610)
 
 - 💬 Ask me about Web Development.   
