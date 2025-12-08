@@ -18,17 +18,16 @@
 ## 🔥 Tech Stack
 
 ### ⭐ **Advance**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" />
-</p>
+</div>
+<h3> :computer: Tech Stack :</h3>
+<br clear="both">
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="128" alt="react logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="128" alt="javascript logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="50" width="128" alt="redux logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="128" alt="html5 logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="128" alt="css3 logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="50" width="128" alt="bootstrap logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="128" alt="tailwindcss logo" /> | <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="50" width="128" alt="vercel logo" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" width="128" alt="github logo" /> |
+|---|---|---|---|---|---|---|---|---|
+
+</div>
+
 
 ---
 
