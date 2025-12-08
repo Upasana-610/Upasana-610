@@ -62,15 +62,19 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upasana-610&show_icons=true&locale=en&layout=compact" height="160px" />
-</p>
+## 📊 My GitHub Stats 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=upasana-610&show_icons=true&locale=en" height="160px" />
-</p>
+<!-- Total GitHub Stats Card -->
+[![Upasana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upasana-610&show_icons=true&count_private=true&theme=radical)](https://github.com/Upasana-610)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upasana-610" height="170px" />
-</p>
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Upasana-610&layout=compact&theme=radical)](https://github.com/Upasana-610)
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Upasana-610&theme=radical)](https://github.com/Upasana-610)
+
+<!-- Extra dynamic cards -->
+[![Repo Count](https://github-readme-stats.vercel.app/api?username=Upasana-610&show_icons=true&count_private=true&theme=radical&hide=stars,issues,prs)](https://github.com/Upasana-610)
+
+[![Top Repos](https://github-readme-stats.vercel.app/api/wakatime?username=Upasana-610&theme=radical)](https://github.com/Upasana-610)
+
