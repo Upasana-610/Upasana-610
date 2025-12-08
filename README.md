@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Upasana Pan</h1>
-<h3 align="center">Frontend Developer | MERN Stack | Tech Enthusiast</h3>
+<h3 align="center">Software Developer | MERN Stack | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=upasana-610&label=Profile%20views&color=ff3366&style=flat" alt="upasana-610" />
